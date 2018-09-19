@@ -1,2 +1,2 @@
 # random-C-
-random things i make
+random things i make in c++
